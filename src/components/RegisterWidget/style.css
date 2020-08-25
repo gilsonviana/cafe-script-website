@@ -1,0 +1,13 @@
+.register-widget__header__title {
+    font-size: 22px;
+}
+.register-widget__content__form__input {
+    border-radius: 0;
+    margin-bottom: 10px;
+}
+.register-widget__content__form__btn {
+    background: var(--color-primary);
+    font-size: 14px;
+    font-weight: normal;
+    border: none;
+}

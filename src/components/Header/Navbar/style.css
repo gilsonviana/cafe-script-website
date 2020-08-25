@@ -1,0 +1,19 @@
+.theme-navbar {
+    background-color: var(--color-light);
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+.theme-navbar {
+    display: flex;
+}
+
+.theme-navbar .nav-link {
+    display: block;
+    padding: 0 1.75rem !important;
+}
+
+.theme-navbar .nav-link.active {
+    background-color: var(--color-primary);
+    border-radius: 50px;
+}
